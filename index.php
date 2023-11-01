@@ -8,7 +8,7 @@
           integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 </head>
 <body>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deserunt dolores eius eum ipsa iste itaque maxime natus omnis quasi quia quibusdam, quo quos rem rerum sapiente, sit tempore voluptate.
+
 <?php
 $nama = 'Hafis';
 $kampus = 'PENS';
